@@ -1,4 +1,4 @@
-//kill me 
+//m
 function getTime() {
     var date = new Date();
     var h = (date.getHours() <= 9) ? "0"+date.getHours() : date.getHours();
